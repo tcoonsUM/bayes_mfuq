@@ -12,5 +12,5 @@ This work is supported in part by the National Science Foundation Graduate Resea
 - `Figures/`: scripts to generate the figures in the manuscript
 - `Final Figures/`: figure files
 - `src/`: Source code for pilot sampling studies
-- `data/`: relevant data files
+- `Data/`: relevant data files
 - `Tutorials/`: Jupyter-style tutorial for running our research code
